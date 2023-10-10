@@ -1,0 +1,35 @@
+import React, { useEffect } from "react";
+import "./About.css";
+import AOS from "aos";
+import "aos/dist/aos.css";
+function About() {
+  useEffect(() => {
+    AOS.init();
+  }, []);
+  return (
+    <div className="about">
+      <br />
+      <br />
+      <h1 className="about_main text">
+        About<span className="pinky1"> Medide</span>
+      </h1>
+      <br />
+      <br />
+      <p className="para" data-aos="zoom-out-down">
+        Born out of VIT's innovation hub,Medide is a forward looking startup
+        transforming how we experience healthcare.We're your bridege to
+        essesntial medical services,like diagnostic centers,blood banks,
+        specially hospitals , and Counselling centers - all within 50km.Say
+        goodbye to Apppointment Headaches.With Medide,booking online is a
+        breeze,saving you from long waits and far trips.We're all about
+        simplicity - for both medical facilities and users.No more appoinments
+        stress.Get results online,handle payments effortlessly and book with a
+        click
+      </p>
+      <br />
+      <br />
+    </div>
+  );
+}
+
+export default About;

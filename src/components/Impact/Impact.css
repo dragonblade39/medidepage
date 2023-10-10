@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+.impact_main {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 50px;
+}
+.below_text {
+  text-align: center;
+  font-size: 35px;
+}
+.pinky2 {
+  color: #eb64a9;
+}
+.email_link {
+  color: black;
+}
+.impact_image1 {
+  margin-left: 5%;
+  width: 372px;
+  height: 310px;
+}
+
+.impact_image1:hover {
+  margin-left: 5%;
+  width: 420px;
+  height: 350px;
+}
+
+.impact_image2 {
+  width: 438px;
+  height: 300px;
+}
+
+.impact_image2:hover {
+  width: 584px;
+  height: 400px;
+}
+
+.impact_image3 {
+  margin-left: 2px;
+  width: 408px;
+  height: 300px;
+}
+
+.impact_image3:hover {
+  margin-left: 2px;
+  width: 544px;
+  height: 400px;
+}
+
+.impact_headings {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+}
+
+.impact_headings:hover {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.impact_content {
+  text-align: center;
+  font-size: 20px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+@media (min-width: 600px) {
+  .impact_main {
+    font-size: 70px;
+  }
+  .below_text {
+    font-size: 50px;
+  }
+  .impact_image1 {
+    margin-left: 18%;
+  }
+  .impact1 {
+    margin-left: -10%;
+  }
+  .impact_image2 {
+    margin-left: 12%;
+  }
+  .impact_image3 {
+    margin-left: 15%;
+  }
+  .impact3 {
+    margin-right: -13.5%;
+  }
+}

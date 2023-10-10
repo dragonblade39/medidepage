@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+.Med,
+.Wel {
+  margin-top: -1%;
+  font-family: "Poppins", sans-serif;
+  margin-left: 3%;
+}
+.Med,
+.sidename {
+  margin-top: 1%;
+}
+.Med,
+.pinky {
+  color: #eb64a9;
+}
+.Wel {
+  margin-top: -3%;
+}
+.sidename,
+.maincontext {
+  margin-left: 3%;
+  margin-right: 1%;
+}
+.Flexing {
+  font-size: xx-large;
+}
+.i2 {
+  width: 356.76px;
+  height: 400px;
+  margin-left: 20px;
+}
+.Wel,
+.Med {
+  font-size: 60px;
+}
+
+.a1 {
+  --i: 1;
+}
+.a2 {
+  --i: 2;
+}
+.a3 {
+  --i: 3;
+}
+.a4 {
+  --i: 4;
+}
+.a5 {
+  --i: 5;
+}
+.a6 {
+  --i: 6;
+}
+
+.waviy span {
+  margin-top: -1%;
+  font-family: "Poppins", sans-serif;
+  position: relative;
+  display: inline-block;
+  animation: flip 4s infinite;
+  animation-delay: calc(0.3s * var(--i));
+}
+@keyframes flip {
+  0%,
+  80% {
+    transform: rotateY(360deg);
+  }
+}
+
+@media screen and (min-width: 500px) {
+  @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+  .Wel,
+  .Med {
+    margin-top: -1%;
+    font-family: "Poppins", sans-serif;
+    margin-left: 8%;
+  }
+  .Med,
+  .pinky {
+    color: #eb64a9;
+  }
+  .Wel {
+    margin-top: -3%;
+  }
+  .sidename,
+  .maincontext {
+    margin-left: 8%;
+  }
+  .Flexing {
+    display: flex;
+    font-size: xx-large;
+  }
+  .i2 {
+    width: 445.95px;
+    height: 500px;
+    margin-right: 200px;
+    margin-top: -15%;
+  }
+
+  .Wel,
+  .Med {
+    font-size: 80px;
+  }
+  .maincontext {
+    padding-right: 30%;
+  }
+}
