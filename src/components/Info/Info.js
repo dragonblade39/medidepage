@@ -1,6 +1,6 @@
 import React from "react";
 import "./Info.css";
-import "F:\\Medide About page\\medide-about_page\\node_modules/bootstrap/dist/css/bootstrap.min.css";
+import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import Image from "../images/side_photo.png";
 function Info() {
   return (
