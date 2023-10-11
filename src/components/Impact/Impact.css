@@ -15,37 +15,21 @@
   color: black;
 }
 .impact_image1 {
-  margin-left: 5%;
-  width: 372px;
-  height: 310px;
-}
-
-.impact_image1:hover {
-  margin-left: 5%;
-  width: 420px;
-  height: 350px;
+  margin-left: 20%;
+  width: 240px;
+  height: 200px;
 }
 
 .impact_image2 {
-  width: 438px;
-  height: 300px;
-}
-
-.impact_image2:hover {
-  width: 584px;
-  height: 400px;
+  margin-left: 17%;
+  width: 292px;
+  height: 200px;
 }
 
 .impact_image3 {
-  margin-left: 2px;
-  width: 408px;
-  height: 300px;
-}
-
-.impact_image3:hover {
-  margin-left: 2px;
-  width: 544px;
-  height: 400px;
+  margin-left: 20%;
+  width: 272px;
+  height: 200px;
 }
 
 .impact_headings {
@@ -68,7 +52,7 @@
   padding-right: 10%;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 1000px) {
   .impact_main {
     font-size: 70px;
   }
@@ -77,15 +61,21 @@
   }
   .impact_image1 {
     margin-left: 18%;
+    width: 372px;
+    height: 310px;
   }
   .impact1 {
     margin-left: -10%;
   }
   .impact_image2 {
     margin-left: 12%;
+    width: 438px;
+    height: 300px;
   }
   .impact_image3 {
     margin-left: 15%;
+    width: 408px;
+    height: 300px;
   }
   .impact3 {
     margin-right: -13.5%;
