@@ -25,47 +25,24 @@
   font-size: xx-large;
 }
 .i2 {
-  width: 356.76px;
-  height: 400px;
-  margin-left: 20px;
+  width: 213px;
+  height: 250px;
+  margin-left: 20%;
 }
-.Wel,
+.Wel {
+  font-size: 40px;
+}
+
+.maincontext {
+  font-size: 15px;
+}
+
+.sidename {
+  font-size: 20px;
+}
+
 .Med {
-  font-size: 60px;
-}
-
-.a1 {
-  --i: 1;
-}
-.a2 {
-  --i: 2;
-}
-.a3 {
-  --i: 3;
-}
-.a4 {
-  --i: 4;
-}
-.a5 {
-  --i: 5;
-}
-.a6 {
-  --i: 6;
-}
-
-.waviy span {
-  margin-top: -1%;
-  font-family: "Poppins", sans-serif;
-  position: relative;
-  display: inline-block;
-  animation: flip 4s infinite;
-  animation-delay: calc(0.3s * var(--i));
-}
-@keyframes flip {
-  0%,
-  80% {
-    transform: rotateY(360deg);
-  }
+  font-size: 45px;
 }
 
 @media screen and (min-width: 1000px) {
@@ -96,6 +73,7 @@
     height: 500px;
     margin-right: 200px;
     margin-top: -15%;
+    margin-left: 0%;
   }
 
   .Wel,
@@ -104,5 +82,9 @@
   }
   .maincontext {
     padding-right: 30%;
+    font-size: 30px;
+  }
+  .sidename {
+    font-size: 40px;
   }
 }

@@ -9,13 +9,10 @@ function About() {
   return (
     <div className="about">
       <br />
-      <br />
       <h1 className="about_main text">
         About<span className="pinky1"> Medide</span>
       </h1>
-      <br />
-      <br />
-      <p className="para" data-aos="zoom-out-down">
+      <p className="para">
         Born out of VIT's innovation hub,Medide is a forward looking startup
         transforming how we experience healthcare.We're your bridege to
         essesntial medical services,like diagnostic centers,blood banks,
@@ -26,7 +23,6 @@ function About() {
         stress.Get results online,handle payments effortlessly and book with a
         click
       </p>
-      <br />
       <br />
     </div>
   );

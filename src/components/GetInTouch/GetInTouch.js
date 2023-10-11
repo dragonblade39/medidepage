@@ -7,19 +7,15 @@ function GetInTouch() {
     AOS.init();
   }, []);
   return (
-    <div className="getin" data-aos="fade-up">
-      <br />
-      <br />
+    <div className="getin">
       <br />
       <h1 className="getin_main">
         Get in<span className="pinky3"> Touch</span>
       </h1>
       <br />
-      <br />
-      <br />
       <div class="container getin_footer">
-        <div class="row">
-          <div class="col getin_content">
+        <div class="lower">
+          <div class=" getin_content">
             <span class="bold">Email Id - </span>
             <span class="underline">
               <a
@@ -31,16 +27,13 @@ function GetInTouch() {
               </a>
             </span>
           </div>
-          <div class="col getin_content">
+          <br />
+          <div class=" getin_content">
             <span class="bold">Ph No. - </span>
             <span className="notbold">+91 77082 63621</span>
           </div>
         </div>
       </div>
-      <br />
-      <br />
-      <br />
-      <br />
       <br />
       <br />
     </div>

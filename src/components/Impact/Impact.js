@@ -7,16 +7,12 @@ function Impact() {
   return (
     <div className="impact_m1">
       <br />
-      <br />
-      <br />
       <h1 className="impact_main">
         Our<span className="pinky2"> Impact</span>
       </h1>
       <p className="below_text">
         Find out how we<span className="pinky2"> Help</span>
       </p>
-      <br />
-      <br />
       <div class="container">
         <div class="row">
           <div class="col impact1">
