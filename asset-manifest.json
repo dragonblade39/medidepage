@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Medide-aboutPage/static/css/main.db38555f.css",
-    "main.js": "/Medide-aboutPage/static/js/main.0a75b69f.js",
+    "main.css": "/Medide-aboutPage/static/css/main.af81c538.css",
+    "main.js": "/Medide-aboutPage/static/js/main.18c90739.js",
     "static/js/787.44d76a24.chunk.js": "/Medide-aboutPage/static/js/787.44d76a24.chunk.js",
     "static/media/grid1.png": "/Medide-aboutPage/static/media/grid1.58b5f22961d910dff007.png",
     "static/media/grid2.png": "/Medide-aboutPage/static/media/grid2.abc79474818a03fad59a.png",
@@ -10,12 +10,12 @@
     "static/media/logo_medide.png": "/Medide-aboutPage/static/media/logo_medide.3b30f95e6b725e6a6645.png",
     "static/media/logo_medide.jpg": "/Medide-aboutPage/static/media/logo_medide.ba6f8b253c2f25900638.jpg",
     "index.html": "/Medide-aboutPage/index.html",
-    "main.db38555f.css.map": "/Medide-aboutPage/static/css/main.db38555f.css.map",
-    "main.0a75b69f.js.map": "/Medide-aboutPage/static/js/main.0a75b69f.js.map",
+    "main.af81c538.css.map": "/Medide-aboutPage/static/css/main.af81c538.css.map",
+    "main.18c90739.js.map": "/Medide-aboutPage/static/js/main.18c90739.js.map",
     "787.44d76a24.chunk.js.map": "/Medide-aboutPage/static/js/787.44d76a24.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db38555f.css",
-    "static/js/main.0a75b69f.js"
+    "static/css/main.af81c538.css",
+    "static/js/main.18c90739.js"
   ]
 }
