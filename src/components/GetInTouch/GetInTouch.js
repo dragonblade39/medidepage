@@ -1,11 +1,6 @@
-import React, { useEffect } from "react";
+import React from "react";
 import "./GetInTouch.css";
-import AOS from "aos";
-import "aos/dist/aos.css";
 function GetInTouch() {
-  useEffect(() => {
-    AOS.init();
-  }, []);
   return (
     <div className="getin">
       <br />
