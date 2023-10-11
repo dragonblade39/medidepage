@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Medide-aboutPage/static/css/main.af81c538.css",
-    "main.js": "/Medide-aboutPage/static/js/main.18c90739.js",
-    "static/js/787.44d76a24.chunk.js": "/Medide-aboutPage/static/js/787.44d76a24.chunk.js",
-    "static/media/grid1.png": "/Medide-aboutPage/static/media/grid1.58b5f22961d910dff007.png",
-    "static/media/grid2.png": "/Medide-aboutPage/static/media/grid2.abc79474818a03fad59a.png",
-    "static/media/grid3.png": "/Medide-aboutPage/static/media/grid3.ebc4797e628254260833.png",
-    "static/media/side_photo.png": "/Medide-aboutPage/static/media/side_photo.55f24701a4c1c438c09b.png",
-    "static/media/logo_medide.png": "/Medide-aboutPage/static/media/logo_medide.3b30f95e6b725e6a6645.png",
-    "static/media/logo_medide.jpg": "/Medide-aboutPage/static/media/logo_medide.ba6f8b253c2f25900638.jpg",
-    "index.html": "/Medide-aboutPage/index.html",
-    "main.af81c538.css.map": "/Medide-aboutPage/static/css/main.af81c538.css.map",
-    "main.18c90739.js.map": "/Medide-aboutPage/static/js/main.18c90739.js.map",
-    "787.44d76a24.chunk.js.map": "/Medide-aboutPage/static/js/787.44d76a24.chunk.js.map"
+    "main.css": "/medidepage/static/css/main.af81c538.css",
+    "main.js": "/medidepage/static/js/main.7a03e456.js",
+    "static/js/787.44d76a24.chunk.js": "/medidepage/static/js/787.44d76a24.chunk.js",
+    "static/media/grid1.png": "/medidepage/static/media/grid1.58b5f22961d910dff007.png",
+    "static/media/grid2.png": "/medidepage/static/media/grid2.abc79474818a03fad59a.png",
+    "static/media/grid3.png": "/medidepage/static/media/grid3.ebc4797e628254260833.png",
+    "static/media/side_photo.png": "/medidepage/static/media/side_photo.55f24701a4c1c438c09b.png",
+    "static/media/logo_medide.png": "/medidepage/static/media/logo_medide.3b30f95e6b725e6a6645.png",
+    "static/media/logo_medide.jpg": "/medidepage/static/media/logo_medide.ba6f8b253c2f25900638.jpg",
+    "index.html": "/medidepage/index.html",
+    "main.af81c538.css.map": "/medidepage/static/css/main.af81c538.css.map",
+    "main.7a03e456.js.map": "/medidepage/static/js/main.7a03e456.js.map",
+    "787.44d76a24.chunk.js.map": "/medidepage/static/js/787.44d76a24.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af81c538.css",
-    "static/js/main.18c90739.js"
+    "static/js/main.7a03e456.js"
   ]
 }
