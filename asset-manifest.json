@@ -1,21 +1,28 @@
 {
   "files": {
-    "main.css": "/medidepage/static/css/main.af81c538.css",
-    "main.js": "/medidepage/static/js/main.7a03e456.js",
+    "main.css": "/medidepage/static/css/main.cbd564c4.css",
+    "main.js": "/medidepage/static/js/main.fa1b09fd.js",
     "static/js/787.44d76a24.chunk.js": "/medidepage/static/js/787.44d76a24.chunk.js",
-    "static/media/grid1.png": "/medidepage/static/media/grid1.58b5f22961d910dff007.png",
-    "static/media/grid2.png": "/medidepage/static/media/grid2.abc79474818a03fad59a.png",
-    "static/media/grid3.png": "/medidepage/static/media/grid3.ebc4797e628254260833.png",
+    "static/media/grid3.png": "/medidepage/static/media/grid3.72e55a40ef52f1012a25.png",
+    "static/media/grid1.png": "/medidepage/static/media/grid1.4273898577c5b950fa7a.png",
+    "static/media/grid2.png": "/medidepage/static/media/grid2.b63b671f65bf3c1452fe.png",
     "static/media/side_photo.png": "/medidepage/static/media/side_photo.55f24701a4c1c438c09b.png",
     "static/media/logo_medide.png": "/medidepage/static/media/logo_medide.3b30f95e6b725e6a6645.png",
+    "static/media/revicons.eot": "/medidepage/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/medidepage/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/logo_medide.jpg": "/medidepage/static/media/logo_medide.ba6f8b253c2f25900638.jpg",
+    "static/media/revicons.woff": "/medidepage/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/slick.svg": "/medidepage/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/medidepage/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/medidepage/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/medidepage/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/medidepage/index.html",
-    "main.af81c538.css.map": "/medidepage/static/css/main.af81c538.css.map",
-    "main.7a03e456.js.map": "/medidepage/static/js/main.7a03e456.js.map",
+    "main.cbd564c4.css.map": "/medidepage/static/css/main.cbd564c4.css.map",
+    "main.fa1b09fd.js.map": "/medidepage/static/js/main.fa1b09fd.js.map",
     "787.44d76a24.chunk.js.map": "/medidepage/static/js/787.44d76a24.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.af81c538.css",
-    "static/js/main.7a03e456.js"
+    "static/css/main.cbd564c4.css",
+    "static/js/main.fa1b09fd.js"
   ]
 }
